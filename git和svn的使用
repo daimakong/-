@@ -3,7 +3,7 @@ git的基本使用
   默认的文件颜色是黑色，修改之后的文件颜色是黄色，新加的文件颜色是绿色
   cd项目目录进入项目目录
   git commit -a -m提交文件并且标明修改的内容
-  git推上传文件到github
-  git添加文件名称新加的文件
+  git push 上传文件到github
+  git add 文件名称新加的文件
   git commit -a -m
-  git推
+  git push
