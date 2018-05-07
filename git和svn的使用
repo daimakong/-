@@ -1,4 +1,6 @@
 git的基本使用 
+SSH Key生成
+    ssh-keygen -t rsa -C "youremail@example.com"
   git clone项目地址下载一个项目
   默认的文件颜色是黑色，修改之后的文件颜色是黄色，新加的文件颜色是绿色
   cd项目目录进入项目目录
