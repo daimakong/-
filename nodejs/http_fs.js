@@ -5,7 +5,7 @@ var server=http.createServer(function(req,res){
      fs.readFile(file_name,function(err,data){
          if(err)
          {
-         	 res.write('404');
+         	 res.write('411104');
          }else
          {
          	res.write(data);

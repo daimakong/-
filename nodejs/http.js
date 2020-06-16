@@ -5,7 +5,7 @@ var server=http.createServer(function(req,res){
        res.write('1.jpg');
        break;
        case '/1.html':
-       res.write('1.html');
+       res.write('111.html');
        break;
        default:
        res.write('1.js');
